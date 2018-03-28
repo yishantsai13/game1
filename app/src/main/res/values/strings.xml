@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">剪刀石頭布</string>
+    <string name="title">來和電腦猜拳吧</string>
+    <string name="txtCom">電腦出拳</string>
+    <string name="txtPlayer">玩家出拳</string>
+    <string name="result">猜拳結果:</string>
+    <string name="txtComPlay">123</string>
+    <string name="scissors">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="paper">布</string>
+    <string name="player_lose">玩家輸了!!</string>
+    <string name="player_win">玩家贏了!!</string>
+    <string name="player_draw">平手囉~~</string>
+</resources>
